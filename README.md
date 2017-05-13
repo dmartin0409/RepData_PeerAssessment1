@@ -1,3 +1,17 @@
+## Peer Assessment #1
+
+**Please note:** The files for this assignment is named **Project**.  These are the files that are created:
+
+* Project.Rmd
+* Project.md
+* Project.html
+
+Also in this folder is a directory named "Project_files" containing the images build by knitr.
+
+The rest of the information in this README is original to the project.
+
+
+
 ## Introduction
 
 It is now possible to collect a large amount of data about personal
