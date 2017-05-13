@@ -4,7 +4,10 @@ May 11, 2017
 
 
 
-**Please note:** I was unable to knit the Rmd provided by the instructors, so I created a new one.  I believe there is a compatibility issue with the pandoc version used to generate the original Rmd from 3 years ago.  I can't tell if there is anything in that Rmd that is required for this assignment.  So here we go...
+**Please note:** I decided to create a brand new Rmd file for this project instead of using the PA1_template.Rmd.
+
+
+## Reproducible Research: Peer Assessment 1
 
 
 ## Loading and preprocessing the data
